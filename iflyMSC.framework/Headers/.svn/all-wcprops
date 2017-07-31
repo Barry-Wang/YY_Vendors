@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers
+END
+IFlyDataUploader.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyDataUploader.h
+END
+AIUIErrorCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/AIUIErrorCode.h
+END
+IFlySpeechSynthesizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechSynthesizerDelegate.h
+END
+AIUICommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/AIUICommon.h
+END
+IFlySpeechSynthesizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechSynthesizer.h
+END
+IFlySpeechConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechConstant.h
+END
+IFlySpeechError.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechError.h
+END
+IFlySpeechEvaluatorDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechEvaluatorDelegate.h
+END
+IFlySpeechUnderstander.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechUnderstander.h
+END
+IFlyISVRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyISVRecognizer.h
+END
+IFlySpeechEvaluator.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechEvaluator.h
+END
+IFlySpeechUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechUtility.h
+END
+IFlyUserWords.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyUserWords.h
+END
+IFlyVoiceWakeuperDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyVoiceWakeuperDelegate.h
+END
+AIUIType.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/AIUIType.h
+END
+IFlyAudioSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyAudioSession.h
+END
+IFlyPcmRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyPcmRecorder.h
+END
+IFlySpeechEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechEvent.h
+END
+IFlyVoiceWakeuper.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyVoiceWakeuper.h
+END
+AIUIConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/AIUIConstant.h
+END
+IFlySetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySetting.h
+END
+IFlyMSC.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyMSC.h
+END
+IFlyResourceUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyResourceUtil.h
+END
+IFlyDebugLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyDebugLog.h
+END
+IFlySpeechRecognizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechRecognizerDelegate.h
+END
+IFlyContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyContact.h
+END
+IFlyISVDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyISVDelegate.h
+END
+IFlyRecognizerViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyRecognizerViewDelegate.h
+END
+IFlySpeechRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlySpeechRecognizer.h
+END
+IFlyRecognizerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyRecognizerView.h
+END
+IFlyTextUnderstander.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/IFlyTextUnderstander.h
+END
+AIUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/iflyMSC.framework/Headers/AIUI.h
+END

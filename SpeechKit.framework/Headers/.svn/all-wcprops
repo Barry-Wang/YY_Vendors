@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers
+END
+SKOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SKOptions.h
+END
+SKAudioPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SKAudioPlayer.h
+END
+SKRecognition.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SKRecognition.h
+END
+SKAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SKAudio.h
+END
+SpeechKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SpeechKit.h
+END
+SKSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SKSession.h
+END
+SKTransaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SKTransaction.h
+END
+SKInterpretation.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hlw/!svn/ver/15993/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/SpeechKit.framework/Headers/SKInterpretation.h
+END

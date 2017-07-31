@@ -1,0 +1,169 @@
+10
+
+dir
+16001
+https://10.18.0.122/svn/hlw/hlw_ios/OneTrips/trunk/OT_Chiengmai%20/onetrip/Venders/BCFeedback/SecurityGuardSDK.framework/Headers/Open
+https://10.18.0.122/svn/hlw
+
+
+
+2017-07-31T05:52:01.105833Z
+15993
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c9efea30-8187-4d65-8e07-901cd465c4cf
+
+OpenUMID
+dir
+
+OpenStaticDataStore
+dir
+
+OpenNoCaptcha
+dir
+
+OpenInitialize
+dir
+
+OpenOpenSDK
+dir
+
+OpenStaticKeyEncrypt
+dir
+
+OpenSecurityGuardParamContext.h
+file
+
+
+
+
+2017-07-31T08:06:53.000000Z
+2ccc2cc7df79980f9b9d84cde5bb7418
+2017-07-31T05:52:01.105833Z
+15993
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1154
+
+IOpenSecurityGuardPlugin.h
+file
+
+
+
+
+2017-07-31T08:06:53.000000Z
+f3bd2f1053de71ad742c043aec5fc7ff
+2017-07-31T05:52:01.105833Z
+15993
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1442
+
+OpenSimulatorDetect
+dir
+
+OpenSecureSignature
+dir
+
+OpenAtlasEncrypt
+dir
+
+OpenSecurityGuardManager.h
+file
+
+
+
+
+2017-07-31T08:06:53.000000Z
+02d7944beaa7e52199424660981562de
+2017-07-31T05:52:01.105833Z
+15993
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5635
+
+OpenDynamicDataEncrypt
+dir
+
+OpenDataCollection
+dir
+
+OpenStaticDataEncrypt
+dir
+
+OpenDynamicDataStore
+dir
+
